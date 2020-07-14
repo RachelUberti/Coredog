@@ -24,6 +24,9 @@ p {
     padding: 0px 0px 0px 28px 
 }
 #line {
-    width:262px; height:1px; background: rgb(0, 0, 0);
+    width:262px; 
+    height:.1px; 
+    border-style: solid;
+    background: rgb(0, 0, 0);
     float: right
 }
